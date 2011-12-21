@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/menu_addition" android:title="Addition " />
+	<item android:id="@+id/menu_subtraction" android:title="Subtraction"/>
+	<item android:id="@+id/menu_division" android:title="Division"/>
+	<item android:id="@+id/menu_multiplication" android:title="Multiplication"/>
+	<item android:id="@+id/menu_quadratic" android:title="Quadratic Formula"/>
+	<item android:id="@+id/menu_Intrest" android:title="Continuous Compounding Intrest"/>
+</menu>
